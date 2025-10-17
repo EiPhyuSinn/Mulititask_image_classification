@@ -1,3 +1,14 @@
 # Created by .ignore support plugin (hsz.mobi)
 .idea/
-tf_logs/
+**/tf_logs/
+**/__pycache__/
+Fashion/data/FashionMNIST/raw/
+*.pt 
+Fashion/images
+img/ 
+**/predictions/
+weather_old/custom_dataset_multi_task_model/
+model/
+logs/
+venv/
+weather_old/archive/
